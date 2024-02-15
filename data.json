@@ -1,0 +1,27 @@
+{
+    "data": {
+      "getUsers": [
+        {
+          "id": "65c21cdc89631ce8114cb616",
+          "username": "rfurkan37",
+          "email": "rfurkan37@gmail.com",
+          "password": "kastamonu",
+          "createdAt": "Tue Feb 06 2024 14:42:51 GMT+0300 (GMT+03:00)"
+        },
+        {
+          "id": "65c22037033dcf640471fa9e",
+          "username": "oley",
+          "email": "iste",
+          "password": "degisti",
+          "createdAt": "Tue Feb 06 2024 15:03:29 GMT+0300 (GMT+03:00)"
+        },
+        {
+          "id": "65c23fbb977e4e03b8cac3c7",
+          "username": "hadibakalım",
+          "email": "bunu da yaparsan",
+          "password": "isteozamanadamsın",
+          "createdAt": "1707229077549"
+        }
+      ]
+    }
+  }

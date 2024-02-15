@@ -1,0 +1,26 @@
+{
+  "name": "blog-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc",
+    "start": "npm run compile && node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "dotenv": "^16.4.4",
+    "graphql": "^16.8.1"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/node": "^20.11.16",
+    "bcrypt": "^5.1.1",
+    "mongoose": "^8.1.1",
+    "typescript": "^5.3.3"
+  }
+}
